@@ -8,3 +8,6 @@ App for Tracking Objects sent by "Correios" from Brazil or abroad to Brazil.<br 
 - React Navigation<br />
 - React Native Elements<br />
 - Realm<br />
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
